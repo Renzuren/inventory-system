@@ -2,7 +2,7 @@ const { createTransporter, emailFrom } = require('../config/nodemailer');
 
 const sendVerificationEmail = async (email, firstName, verificationToken) => {
   const transporter = createTransporter();
-  const verificationLink = `http://localhost:5173/verify-email?token=${verificationToken}`;
+  const verificationLink = `https://stockify.netlify.app/verify-email?token=${verificationToken}`;
 
   const mailOptions = {
     from: emailFrom,
