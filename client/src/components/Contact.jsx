@@ -11,8 +11,8 @@ export default function Contact() {
             <Mail className="w-6 h-6 text-emerald-600 mt-1" />
             <div>
               <p className="font-medium text-gray-700">Email</p>
-              <a href="mailto:ralph@example.com" className="text-emerald-600 hover:underline">
-                ralph@example.com
+              <a href="mailto:amparoralphlawrence9@gmail.com" className="text-emerald-600 hover:underline">
+                amparoralphlawrence9@gmail.com
               </a>
               <p className="text-sm text-gray-500 mt-1">I typically respond within 24 hours.</p>
             </div>
@@ -22,8 +22,8 @@ export default function Contact() {
             <Code className="w-6 h-6 text-emerald-600 mt-1" />
             <div>
               <p className="font-medium text-gray-700">GitHub</p>
-              <a href="#" className="text-emerald-600 hover:underline">
-                github.com/ralph
+              <a href="https://github.com/Renzuren" className="text-emerald-600 hover:underline">
+                Renzuren
               </a>
               <p className="text-sm text-gray-500 mt-1">Check out the source code and contribute.</p>
             </div>
@@ -33,8 +33,8 @@ export default function Contact() {
             <Globe className="w-6 h-6 text-emerald-600 mt-1" />
             <div>
               <p className="font-medium text-gray-700">Portfolio</p>
-              <a href="#" className="text-emerald-600 hover:underline">
-                ralph.dev
+              <a href="https://ralphlawrenceamparo.netlify.app/" className="text-emerald-600 hover:underline">
+                ralphlawrenceamparo.netlify.app
               </a>
               <p className="text-sm text-gray-500 mt-1">See more of my work.</p>
             </div>
